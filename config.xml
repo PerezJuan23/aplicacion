@@ -7,7 +7,7 @@
 	 
    <!-- versionCode is optional and Android only -->
    
-   <name>Aplication Dos SEMANA SANTA</name>
+   <name>Aplicacion Dos SEMANA SANTA</name>
    
    <description>
       Aplicación que muestra la Semana Santa
@@ -26,5 +26,5 @@
 	 
 	 <!--Colocar icono app -->
 	 
-<icono src="res/android/icono:png"/>	 
+<icono src="res/android/icono.png"/>	 
 </widget>	 
